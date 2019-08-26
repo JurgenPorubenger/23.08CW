@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  h2= user
+  h2= age
+  .tbl-content
+    ol
+      each names in table
+        h1
+          a(href='users/'+names.id)
+            li.name= names.name

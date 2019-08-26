@@ -3,10 +3,13 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
-  h2= user
-  h2= age
   .tbl-content
     ol
-      each names in table
-        h1
-          li.name= names.name
+      each article in articles
+        div
+          h3= article.artTitle
+          p= article.text
+          a(href='#')= article.autor()
+
+
+        //a(href='users/' + names.id)
