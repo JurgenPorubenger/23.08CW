@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d36a38f1-a0b5-4dde-809b-0f9c759bf856" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jurgen.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/user.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/users.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/blogPage.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
@@ -73,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566577249344</updated>
       <workItem from="1566577259318" duration="7965000" />
-      <workItem from="1566762125682" duration="4857000" />
+      <workItem from="1566762125682" duration="8415000" />
     </task>
     <servers />
   </component>
